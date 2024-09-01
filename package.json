@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "itis-6177-week-01",
+  "description": "",
+  "version": "1.0.0",
+  "main": "express.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
