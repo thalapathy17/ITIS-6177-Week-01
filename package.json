@@ -3,7 +3,7 @@
     "express": "^4.19.2"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node express.js"
   },
   "name": "itis-6177-week-01",
   "description": "",
